@@ -173,7 +173,7 @@ function burstConfetti() {
 // ---------- Typewriter for the finale message ----------
 function initTypewriter() {
   const el = document.getElementById('typewriter');
-  const message = "Every scroll, every photo, every word here was for you. I hope it made you smile even for a second. Oh and by the way ndisabafuna abantwana ababini from you so make sure uqhubeka uziphatha kakuhle";
+  const message = "Every scroll, every photo, every word here was for you. I hope it made you smile even for a second.It's your special day!!!!!";
   let i = 0;
 
   const finale = document.getElementById('finale');
