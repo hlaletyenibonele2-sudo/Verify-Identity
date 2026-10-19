@@ -42,7 +42,7 @@ form.addEventListener('submit', (e) => {
     documentPage.style.display = 'none';
     birthdayPage.classList.remove('hidden');
 
-   const NICKNAME = "Ntombi"; // change this whenever
+   const NICKNAME = "Lathitha we bhuda"; // change this whenever
   document.getElementById('herName').textContent = NICKNAME;
   document.getElementById('finalName').textContent = NICKNAME;
 
